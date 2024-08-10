@@ -2,6 +2,8 @@
 
 # Verify prerequisites
 
+
+
 # Read configuration file
 
 # Add ignorables folders

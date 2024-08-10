@@ -8,7 +8,7 @@ For further information on the code, please refer to the `docs` folder.
 To `download`
 ~~~bash
     cd complete_path/where/install/repository
-    # now, we make a directory called `Spectral_Maps_Rediscovered` with repository:
+    # Now we create a directory called `Spectral_Maps_Rediscovered` with repository:
     git clone https://github.com/StefanoMagriniAlunno/Spectral_Maps_Rediscovered
 ~~~
 
@@ -19,3 +19,5 @@ To `install`
     ./install.sh
 ~~~
 
+**Remark** : the installer has not a authorization of an administator, it changes only the local folder.
+**Remark** : you can examinate properties of installer typing `./install.sh --help`
