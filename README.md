@@ -41,10 +41,10 @@ To `install` this repository
 * **Remark** : You can examine the properties of the installer by typing `./repo.sh --help`.
 
 
-## navigate
+## Navigate
 
 ### Documentation
 It is possible consult documentation opening the html file `doc/_build/html/index.html` in your browser
 It's contain details about python code in `src`, each file is documentated.
 
-###
+### Console
