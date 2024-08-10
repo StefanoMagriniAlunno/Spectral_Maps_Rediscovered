@@ -19,5 +19,5 @@ To `install`
     ./install.sh
 ~~~
 
-**Remark** : the installer has not a authorization of an administator, it changes only the local folder.
-**Remark** : you can examinate properties of installer typing `./install.sh --help`
+* **Remark** :  The installer does not have administrator permissions, it only changes the local folder.
+* **Remark** : You can examine the properties of the installer by typing `./install.sh --help`.
